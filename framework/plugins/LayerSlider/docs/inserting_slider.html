@@ -1,0 +1,52 @@
+<h3>Inserting the slider with shortcode</h3>
+<p>
+	You can place your sliders into pages and posts with their shortcodes.
+	You can find the shortcode for each slider in this page next to their names
+	in the list view. To insert the slider, edit a page or post and insert its
+	shortcode into the WordPress text editor.
+</p>
+
+<h3>Inserting the slider with the LayerSlider WP widget</h3>
+<p>
+	LayerSlider WP supports widgets, so you can place your slider in your
+	front-end page just by a drag n' drop. To do that, navigate to the Appearance
+	menu on your left sidebar and select "Widgets". Grab the LayerSlider WP
+	Widget and drop it into one of your widget area. <br><br>
+
+	Please note that some themes may not support a widget area what you need.
+	In this case, you can create a new widget area by editing your theme files.
+	<a href="http://codex.wordpress.org/Widgetizing_Themes" target="_blank">Here</a>
+	is the official documentation about widgetizing your theme.
+</p>
+
+<h3>Calling the slider from your theme files</h3>
+<p>
+	Because a slider can be an integral part of your site, you may want to place it
+	into your theme files. There is a PHP function with filtering options which you
+	can call for example from the header.php file of your theme and it inserts your slider into your
+	home page or certail other pages depending on your filtering settings.
+	Here is the function definition:<br><br>
+
+	<strong>layerslider</strong> ( mixed $sliderID [, string $pages] )<br><br>
+
+	The <i>$sliderID</i> parameter can be found on the plugin page in the slider list view at the
+	first table column. <br><br>
+
+	The <i>$pages</i> parameter is a comma separated list of pages either by name or the ID of the pages.
+	If you are unsure about your page names or IDs, look at their URL, it is the last component.<br><br>
+
+	There is a special page name, the "homepage", with you can filter LayerSlider WP to display the
+	slider on your home page. It is also works if you set up a static custom page instead of the default post listing.<br><br>
+
+	The follwing examples are all valid, you can use either of these, you can even mix them on your own needs:<br><br>
+
+	<strong>&lt;?php layerslider(1); ?&gt;</strong> // Displays the first slider on every page<br>
+	<strong>&lt;?php layerslider(1, &#39;homepage&#39;); ?&gt;</strong> // Displays the first slider only on your home page<br>
+	<strong>&lt;?php layerslider(1, &#39;my-custom-post-title&#39;); ?&gt;</strong> // Displays the first slider on a custom page by name<br>
+	<strong>&lt;?php layerslider(2, &#39;1369&#39;); ?&gt;</strong> // Diplays the second slider on a custom page by ID<br>
+	<strong>&lt;?php layerslider(3, &#39;homepage,about-us,1234&#39;); ?&gt;</strong> // Displays the third slider on multiple pages<br><br>
+
+	It is important when you want to insert a slider to check its ID on the LayerSlider WP slider list page.
+	When you removes some sliders, their IDs won't be reindexed and the sequence may broke up. This is important
+	to keep persistent your sliders preventing unwanted changes on the already inserted ones.
+</p>

@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-05-25 08:34+0500\n"
+"PO-Revision-Date: 2013-05-25 08:35+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/muhammadharis/Documents/Avada\n"
+
+#: /Users/muhammadharis/Documents/Avada/404.php:6
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/404.php:13
+#: /Users/muhammadharis/Documents/Avada/search.php:54
+msgid "Here are some useful links:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/404.php:17
+msgid "Search Our Website"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/404.php:18
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/archive-wpfc_sermon.php:35
+#: /Users/muhammadharis/Documents/Avada/archive.php:42
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:169
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:169
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:168
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:168
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:168
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:168
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:169
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:200
+#: /Users/muhammadharis/Documents/Avada/index.php:160
+#: /Users/muhammadharis/Documents/Avada/index.php:162
+#: /Users/muhammadharis/Documents/Avada/index.php:191
+#: /Users/muhammadharis/Documents/Avada/search.php:38
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2068
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:138
+#: /Users/muhammadharis/Documents/Avada/single.php:138
+msgid "By"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/archive-wpfc_sermon.php:35
+#: /Users/muhammadharis/Documents/Avada/archive.php:42
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:200
+#: /Users/muhammadharis/Documents/Avada/index.php:162
+#: /Users/muhammadharis/Documents/Avada/index.php:191
+#: /Users/muhammadharis/Documents/Avada/search.php:38
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2078
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:138
+#: /Users/muhammadharis/Documents/Avada/single.php:138
+msgid "0 Comments"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/archive-wpfc_sermon.php:35
+#: /Users/muhammadharis/Documents/Avada/archive.php:42
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:200
+#: /Users/muhammadharis/Documents/Avada/index.php:162
+#: /Users/muhammadharis/Documents/Avada/index.php:191
+#: /Users/muhammadharis/Documents/Avada/search.php:38
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2078
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:138
+#: /Users/muhammadharis/Documents/Avada/single.php:138
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/archive-wpfc_sermon.php:35
+#: /Users/muhammadharis/Documents/Avada/archive.php:42
+#: /Users/muhammadharis/Documents/Avada/comments.php:18
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:200
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:170
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:199
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:171
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:200
+#: /Users/muhammadharis/Documents/Avada/index.php:162
+#: /Users/muhammadharis/Documents/Avada/index.php:191
+#: /Users/muhammadharis/Documents/Avada/search.php:38
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:809
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:923
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:996
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2078
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:138
+#: /Users/muhammadharis/Documents/Avada/single.php:138
+msgid "Comments"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/archive-wpfc_sermon.php:38
+#: /Users/muhammadharis/Documents/Avada/archive.php:45
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:191
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:204
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:191
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:204
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:190
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:203
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:190
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:203
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:190
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:203
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:190
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:203
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:191
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:204
+#: /Users/muhammadharis/Documents/Avada/index.php:182
+#: /Users/muhammadharis/Documents/Avada/index.php:195
+#: /Users/muhammadharis/Documents/Avada/search.php:41
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2082
+msgid "Read More"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:18
+msgid "No Comments"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:18
+msgid "One Comment"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:47
+msgid "Leave A Comment"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:53
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:60
+msgid "Logged in as"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:60
+msgid "Log out of this account"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:60
+msgid "Log out &raquo;"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:64
+#: /Users/muhammadharis/Documents/Avada/comments.php:90
+msgid "Comment..."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:70
+#: /Users/muhammadharis/Documents/Avada/comments.php:96
+msgid "Post Comment"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:80
+#: /Users/muhammadharis/Documents/Avada/contact.php:103
+msgid "Name (required)"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:82
+#: /Users/muhammadharis/Documents/Avada/contact.php:105
+msgid "Email (required)"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/comments.php:84
+msgid "Website"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:90
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:95
+msgid "Thank you"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:95
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:107
+msgid "Subject"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:113
+msgid "Message"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/contact.php:129
+msgid "Submit Form"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:195
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:195
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:195
+#: /Users/muhammadharis/Documents/Avada/index.php:186
+msgid "0"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/demo-fullwidthblog.php:195
+#: /Users/muhammadharis/Documents/Avada/demo-gridblog.php:195
+#: /Users/muhammadharis/Documents/Avada/demo-largealternateblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-largeblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-mediumalternateblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-mediumblog.php:194
+#: /Users/muhammadharis/Documents/Avada/demo-timelineblog.php:195
+#: /Users/muhammadharis/Documents/Avada/index.php:186
+msgid "1"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/faqs.php:39
+#: /Users/muhammadharis/Documents/Avada/portfolio-four-column-text.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-four-column.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column-text.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-three-column-text.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-three-column.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-two-column-text.php:45
+#: /Users/muhammadharis/Documents/Avada/portfolio-two-column.php:45
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:1145
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:1256
+msgid "All"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/functions.php:317
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/functions.php:317
+msgid " - Edit"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/functions.php:317
+msgid " - Reply"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/functions.php:322
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/functions.php:412
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/header.php:1990
+msgid "Search results for:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/header.php:2000
+msgid "Error 404 Page"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/header.php:2011
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/header.php:2013
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/header.php:2015
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column-text.php:160
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column.php:160
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:1363
+#: /Users/muhammadharis/Documents/Avada/taxonomy-portfolio_category.php:70
+#: /Users/muhammadharis/Documents/Avada/taxonomy-portfolio_skills.php:67
+msgid "Learn More"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column-text.php:162
+#: /Users/muhammadharis/Documents/Avada/portfolio-one-column.php:162
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:1365
+#: /Users/muhammadharis/Documents/Avada/taxonomy-portfolio_category.php:72
+#: /Users/muhammadharis/Documents/Avada/taxonomy-portfolio_skills.php:69
+msgid "View Project"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/search.php:50
+msgid "Oops!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/search.php:51
+msgid "Couldn't find what you're looking for!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/search.php:58
+msgid "Try again!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/search.php:59
+msgid "If you want to rephrase your query, here is your chance:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2125
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:37
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:39
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:51
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:29
+#: /Users/muhammadharis/Documents/Avada/single.php:29
+#: /Users/muhammadharis/Documents/Avada/framework/custom_functions.php:74
+msgid "Previous"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/shortcodes.php:2137
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:55
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:57
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:69
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:30
+#: /Users/muhammadharis/Documents/Avada/single.php:30
+#: /Users/muhammadharis/Documents/Avada/framework/custom_functions.php:84
+msgid "Next"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:158
+msgid "Project Description"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:163
+msgid "Project Details"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:165
+msgid "Skills Needed"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:173
+msgid "Categories"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:181
+msgid "Project URL"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:187
+msgid "Copyright"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-avada_portfolio.php:197
+msgid "Related Projects"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:144
+#: /Users/muhammadharis/Documents/Avada/single.php:144
+msgid "Share This Story, Choose Your Platform!"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:247
+#: /Users/muhammadharis/Documents/Avada/single.php:247
+msgid "About the Author:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/single-wpfc_sermon.php:263
+#: /Users/muhammadharis/Documents/Avada/single.php:263
+msgid "Related Posts"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/classes/class.options_machine.php:457
+msgid "Last Backup : "
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/classes/class.options_machine.php:517
+msgid "Upload"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/front-end/options.php:43
+#: /Users/muhammadharis/Documents/Avada/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:178
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:179
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:517
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1956
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1956
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/custom_functions.php:110
+msgid "Home"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/custom_functions.php:170
+msgid "404 - Page not Found"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/framework/custom_functions.php:171
+msgid "Search"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/contact_info.php:36
+msgid "Phone:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/contact_info.php:40
+msgid "Fax:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/contact_info.php:44
+msgid "Email:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/contact_info.php:48
+msgid "Web:"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/tabs_widget.php:40
+msgid "Popular"
+msgstr ""
+
+#: /Users/muhammadharis/Documents/Avada/widgets/tabs_widget.php:43
+msgid "Recent"
+msgstr ""

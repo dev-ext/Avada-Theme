@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-28 09:45+0500\n"
+"PO-Revision-Date: 2013-04-16 15:30+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: E:\\projects\\Luke Beck\\Avada\\wp-content\\themes"
+"\\Avada\n"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:6
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "抱歉，該頁面不存在！"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:13
+msgid "Here are some useful links:"
+msgstr "推薦鏈接："
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:17
+msgid "Search Our Website"
+msgstr "站內搜索"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:18
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr "找不到需要的信息？請搜索一下！"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "By"
+msgstr "撰寫者 "
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "0 Comments"
+msgstr "0條評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "1 Comment"
+msgstr "1條評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "Comments"
+msgstr "評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:42
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:96
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:95
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:96
+#: Beck\Avada\wp-content\themes\Avada/index.php:42
+msgid "Read More"
+msgstr "進一步了解"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "本頁已加密。請輸入密碼查看評論。"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "No Comments"
+msgstr "暫無評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "One Comment"
+msgstr "1條評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:37
+msgid "Comments are closed."
+msgstr "評論功能關閉。"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:47
+msgid "Leave A Comment"
+msgstr "評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:53
+msgid "You must be <a href=\""
+msgstr "您是 <a href=\""
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Logged in as"
+msgstr "登陸"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Log out &raquo;"
+msgstr "退出 &raquo;"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:70
+#: Beck\Avada\wp-content\themes\Avada/comments.php:96
+msgid "Post Comment"
+msgstr "發表評論"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:80
+#: Beck\Avada\wp-content\themes\Avada/contact.php:103
+msgid "Name (required)"
+msgstr "姓名（必填）"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:82
+#: Beck\Avada\wp-content\themes\Avada/contact.php:105
+msgid "Email (required)"
+msgstr "Email (必填)"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:84
+msgid "Website"
+msgstr "網站"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:90
+msgid "Comment..."
+msgstr "評論..."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:90
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr "請檢查是否在所有欄目填入了有效信息。謝謝!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "Thank you"
+msgstr "謝謝"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr "使用聯繫表！您的郵件已成功發送！"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:107
+msgid "Subject"
+msgstr "標題"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:113
+msgid "Message"
+msgstr "內容"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:129
+msgid "Submit Form"
+msgstr "提交表格"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/faqs.php:23
+msgid "All"
+msgstr "全部"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:88
+msgid "Install Required Plugins"
+msgstr "安裝必要的插件"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:89
+msgid "Install Plugins"
+msgstr "安裝插件"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安裝插件：%s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:91
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出錯。"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:102
+msgid "Return to Required Plugins Installer"
+msgstr "返回必要插件安裝器"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:103
+msgid "Plugin activated successfully."
+msgstr "插件已成功安裝"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有安裝插件已成功激活。 %s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+msgid " - Edit"
+msgstr "編輯"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論正在審核中。"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:331
+msgid "Theme Options"
+msgstr "主題選項"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/header.php:714
+msgid "Search results for:"
+msgstr "搜索結果："
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:84
+msgid "Learn More"
+msgstr "進一步了解"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:86
+msgid "View Project"
+msgstr "查看項目"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/searchform.php:3
+msgid "Search ..."
+msgstr "搜索"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:11
+#: Beck\Avada\wp-content\themes\Avada/single.php:17
+msgid "Previous"
+msgstr "上一個"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:12
+#: Beck\Avada\wp-content\themes\Avada/single.php:18
+msgid "Next"
+msgstr "下一個"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:144
+msgid "Related Projects"
+msgstr "相關產品"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:137
+msgid "Share This Story, Choose Your Platform!"
+msgstr "分享"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:228
+msgid "About the Author:"
+msgstr "關於作者"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:244
+msgid "Related Posts"
+msgstr "相關頁面"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:455
+msgid "Last Backup : "
+msgstr "上次備份"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:515
+msgid "Upload"
+msgstr "上傳"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:43
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "保存有所更改"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "重置選項"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "選項"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "畫廊"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "最近上傳"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "出錯了。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有安裝的插件已成功激活。%1$s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:517
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "返回控制面板"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "下列插件已成功激活：%s."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "關閉本通知"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "外部鏈接"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "個人知識庫"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "預裝"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress知識庫"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "要求"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "推薦"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "未安裝"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "已安裝但未激活"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"無插件安裝或激活。 <a href=\"%1$s\" title=\"Return to the Dashboard\">Return "
+"to the Dashboard</a>"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "插件"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "來源"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "類型"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "狀態"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "安裝"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "激活"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "安裝包不存在。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "正在從 <span class=\"code\">%s</span>&#8230;下載安裝包"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "解壓&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "正在安裝&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "插件安裝失敗。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "插件成功安裝。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "插件激活失敗。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安裝和激活過程正在啟動中。可能需要一些時間，請耐心等候"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 已成功安裝并激活。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "顯示詳細信息"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "隱藏詳情"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "完成所有安裝和激活。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝和激活插件 %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安裝過程正在啟動中。可能需要一些時間，請耐心等候。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝 %1$s: <strong>%2$s</strong>.過程中出現錯誤。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安裝失敗。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安裝成功。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "所有安裝已完成。"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "插件安裝中 %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:107
+msgid "Home"
+msgstr "主頁"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:159
+msgid "404 - Page not Found"
+msgstr "404 - 無法找到該頁面"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:160
+msgid "Search"
+msgstr "搜尋"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:40
+msgid "Popular"
+msgstr "熱門"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:43
+msgid "Recent"
+msgstr "最新"

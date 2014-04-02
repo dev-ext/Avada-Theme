@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-28 09:45+0500\n"
+"PO-Revision-Date: 2013-03-22 17:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: E:\\projects\\Luke Beck\\Avada\\wp-content\\themes"
+"\\Avada\n"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:6
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "Oops, Sayfa Bulunamadı!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:13
+msgid "Here are some useful links:"
+msgstr "Şu linkler faydalı olabilir"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:17
+msgid "Search Our Website"
+msgstr "Sitemizde arayın"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:18
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr "Aradığınız bulunamadı. Aşağıda arayın"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "By"
+msgstr "Yazan"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "0 Comments"
+msgstr "Yorum yok"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "Comments"
+msgstr "Yorum"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:42
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:96
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:95
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:96
+#: Beck\Avada\wp-content\themes\Avada/index.php:42
+msgid "Read More"
+msgstr "Devamı"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı parola korumlıdır. İçeriği görmek için parolayı giriniz."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "No Comments"
+msgstr "Yorum yok"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "One Comment"
+msgstr "Bir yorum"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:37
+msgid "Comments are closed."
+msgstr "Yorum kapalı"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:47
+msgid "Leave A Comment"
+msgstr "Siz de fikrinizi belirtin"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:53
+msgid "You must be <a href=\""
+msgstr "sen <a href=\" olmalısın"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Logged in as"
+msgstr "Çevrimiçi"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Log out &raquo;"
+msgstr "Çevrimdışı ol &raquo;"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:70
+#: Beck\Avada\wp-content\themes\Avada/comments.php:96
+msgid "Post Comment"
+msgstr "Gönder"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:80
+#: Beck\Avada\wp-content\themes\Avada/contact.php:103
+msgid "Name (required)"
+msgstr "Ad (gerekli)"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:82
+#: Beck\Avada\wp-content\themes\Avada/contact.php:105
+msgid "Email (required)"
+msgstr "E-mail (gerekli)"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:84
+msgid "Website"
+msgstr "Web sitesi"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:90
+msgid "Comment..."
+msgstr "Yorum..."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:90
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr "Lütfen gerekli alanları geçerli bilgilerle doldurun. Teşekkürler!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "Thank you"
+msgstr "Teşekkürler"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr "formu kullandığınız için. E-mailiniz başarılı olarak gönderildi."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:107
+msgid "Subject"
+msgstr "Konu"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:113
+msgid "Message"
+msgstr "Mesaj"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:129
+msgid "Submit Form"
+msgstr "Gönder"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/faqs.php:23
+msgid "All"
+msgstr "Hepsi"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:88
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentiyi Yükle"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:89
+msgid "Install Plugins"
+msgstr "Yüklü eklentiler"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Yükleniyor: %s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:91
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API hakkında ters giden bir şeyler var."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:102
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti Yüklemesine geri dön"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:103
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarılı olarak aktif edildi."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentiler başarılı olarak yüklendi ve aktif edildi. %s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+#, php-format
+msgid "%1$s at %2$s"
+msgstr " %2$s de %1$s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+msgid " - Edit"
+msgstr " - Düzenle"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:331
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/header.php:714
+msgid "Search results for:"
+msgstr "Arama sonuçları:"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:84
+msgid "Learn More"
+msgstr "İncele"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:86
+msgid "View Project"
+msgstr "Göster"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/searchform.php:3
+msgid "Search ..."
+msgstr "Ara ..."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:11
+#: Beck\Avada\wp-content\themes\Avada/single.php:17
+msgid "Previous"
+msgstr "Önceki"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:12
+#: Beck\Avada\wp-content\themes\Avada/single.php:18
+msgid "Next"
+msgstr "Sonraki"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:144
+msgid "Related Projects"
+msgstr "İlgili Ürünler"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:137
+msgid "Share This Story, Choose Your Platform!"
+msgstr "Platformunuzu seçin ve Paylaşın!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:228
+msgid "About the Author:"
+msgstr "Yazar Hakkında:"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:244
+msgid "Related Posts"
+msgstr "İlişkili Yazılar"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:455
+msgid "Last Backup : "
+msgstr "Son Yedekleme :"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:515
+msgid "Upload"
+msgstr "Yükle"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:43
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Tüm değişiklikleri kaydet"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Özellikleri Sıfırla"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Özellikler"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galeri"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Önceki Yüklenen"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Bir terslik var!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarılı olarak yüklendi ve aktif edildi. %1$s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:517
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Kontrol Paneline dön"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Şu eklentiler başarılı olarak aktif edildi: %s."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi reddet"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Harici Link"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Özel Depo"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Hazır Paket"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Gerekli"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Yüklü değil"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Yüklü fakat aktif değil"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Yüklü veya aktif eklenti yoke. <a href=\"%1$s\" title=\"Kontrol Paneline "
+"Geri Dön\">Kontrol Paneline Geri Dön</a>"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Kaynak"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tip"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Durum"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Yükle"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Ektif et"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Yükleme paketi kullanılabilir değil."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Yükleme paketi indiriliyor <span class=\"code\">%s</span>&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Açılan paket&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Yüklenen eklenti&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Eklenti yükleme başarısız."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Eklenti yükleme başarılı."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Eklenti aktifleştirme başarısız."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Yükleme ve aktifleştirme süreci başladı. Bu süre servis sağlayıcıya göre "
+"zaman alabilir. Lütfen sabırlı olun."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarılı olarak yüklenen ve aktif edilen."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Detayları Gizle"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Tüm yükleme ve aktifleştirmeler tamamlandı."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Yüklenen ve aktif edilen eklenti %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Yükleme süreci başlıyor. Bu süre servis sağlayıcıya göre zaman alabilir. "
+"Lütfen sabırlı olun."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yükleme sırasında bir hata oluştu %1$s: <strong>%2$s</strong>."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Yüklemenin kalan kısmı %1$s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s yükleme başarılı."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Tüm yüklemeler tamamlandı."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti yükleniyor %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:107
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:159
+msgid "404 - Page not Found"
+msgstr "Sayfa bulunamadı hatası!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:160
+msgid "Search"
+msgstr "Ara"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:40
+msgid "Popular"
+msgstr "Popüler"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:43
+msgid "Recent"
+msgstr "Son eklenenler"

@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-02 20:40+0500\n"
+"PO-Revision-Date: 2013-03-04 09:24+0100\n"
+"Last-Translator: Helmut F. Reibold <karim@xoops-magazin.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: E:\\projects\\Luke Beck\\Avada\\wp-content\\themes\\Avada\n"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/archive.php:159
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:89
+#: Beck\Avada\wp-content\themes\Avada/index.php:160
+msgid "Read More"
+msgstr "Lees meer"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is beschermd met een wachtwoord. Voer het wachtwoord in om de reacties te zien."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "One Comment"
+msgstr "Eén reactie"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "% Comments"
+msgstr "%Reacties"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:37
+msgid "Comments are closed."
+msgstr "Niet mogelijk te reageren."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:47
+msgid "Leave A Comment"
+msgstr "Reageer"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Log out &raquo;"
+msgstr "Log uit &raquo;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:70
+#: Beck\Avada\wp-content\themes\Avada/comments.php:96
+msgid "Post Comment"
+msgstr "Plaats reactie"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:80
+#: Beck\Avada\wp-content\themes\Avada/contact.php:87
+msgid "Name (required)"
+msgstr "Naam (verplicht)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:82
+#: Beck\Avada\wp-content\themes\Avada/contact.php:89
+msgid "Email (required)"
+msgstr "Email (verplicht)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:84
+msgid "Website"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/comments.php:90
+msgid "Comment..."
+msgstr "Reactie..."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:73
+msgid "Please check if you've filled all the fields with valid information. Thank you."
+msgstr "Kijk na of u alle velden van de juiste informatie heeft voorzien. Dank u."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:78
+msgid "Email Successfully Sent!"
+msgstr "Email sturen geslaagd!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:79
+msgid "Thank you"
+msgstr "Dank je"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:79
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr "dat je mijn contactformulier hebt gebruikt! Jouw mail is succesvol verzonden!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:91
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:97
+msgid "Message"
+msgstr "Bericht"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/contact.php:103
+msgid "Submit Form"
+msgstr "Verzend formulier"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/custom-portfolio.php:58
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:62
+msgid "Learn More"
+msgstr "Meer informatie"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/custom-portfolio.php:60
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:64
+msgid "View Project"
+msgstr "Bekijk Project"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/faqs.php:10
+#: Beck\Avada\wp-content\themes\Avada/portfolio-four-column.php:10
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:10
+#: Beck\Avada\wp-content\themes\Avada/portfolio-three-column.php:10
+msgid "All"
+msgstr "Alle"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:135
+msgid "Install Required Plugins"
+msgstr "Installeer benodigde plugins"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:136
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:137
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installeer plugins: %s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:138
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:149
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar de vereiste plugins installer"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:150
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:151
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:285
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:285
+msgid " - Edit"
+msgstr "- Bewerk"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/functions.php:290
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt gemodereerd."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/header.php:382
+msgid "Search results for:"
+msgstr "Zoek resultaten voor:"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/index.php:157
+msgid "By"
+msgstr "Door"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/index.php:157
+msgid "0 Comments"
+msgstr "0 Reacties"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/index.php:157
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/index.php:157
+msgid "Comments"
+msgstr "Reacties"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/searchform.php:3
+msgid "Search ..."
+msgstr "Zoek ..."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:11
+#: Beck\Avada\wp-content\themes\Avada/single.php:13
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:71
+msgid "Previous"
+msgstr "Vorige"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:12
+#: Beck\Avada\wp-content\themes\Avada/single.php:14
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:81
+msgid "Next"
+msgstr "Volgende"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:57
+msgid "Project Description"
+msgstr "Projectomschrijving"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:62
+msgid "Project Details"
+msgstr "Projectdetails"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:64
+msgid "Skills Needed"
+msgstr "Vaardigheden benodigd"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:72
+msgid "Categories"
+msgstr "Categoriën"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:80
+msgid "Project URL"
+msgstr "Project URL"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:86
+msgid "Copyright"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:96
+msgid "Related Projects"
+msgstr "Verwante projecten"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single.php:75
+msgid "Share This Story, Choose Your Platform!"
+msgstr "Deel dit verhaal, kies je platform!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single.php:152
+msgid "About the Author:"
+msgstr "Over de schrijver:"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single.php:168
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-framework.php:229
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klik OK om te resetten. Alle thema instellingen zullen verloren gaan!"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-framework.php:261
+msgid "Default options restored."
+msgstr "Standaard opties hersteld."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-framework.php:302
+msgid "Options saved."
+msgstr "Opties bewaard."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-framework.php:360
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr "Opties framework interne container"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr "Bekijk bestand"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr "Galerie"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr "Eerder geüpload"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Er is iets misgegaan."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:517
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het dashboard"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "De volgende plugin werd succesvol geactiveerd: %s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Negeer deze waarschuwing"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Externe link"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Privé opslag"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress opslag"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Vereist"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Geen plugin om te installeren en activeren. <a href=\"%1$s\" titel=\"Keer terug naar het dashboard\">Keer terug naar het dashboard</a>"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Bron"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Installeer"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Activeer"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Installatiepakket niet beschikbaar."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Installatiepakket downloaden vanaf <span klasse=\"code\">%s</span>&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Pakket uitpakken&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Plugin installeren&#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Plugin installatie mislukt."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin succesvol geïnstalleerd."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1955
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activatieproces is gestart. Dit proces kan enige tijd duren op sommige hosts, dus wees geduldig."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Toon details"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren en activeren %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces is gestart. Dit proces kan enige tijd duren op sommige hosts, dus wees geduldig."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie %1$s: <strong>%2$s</strong>."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:104
+msgid "Home"
+msgstr ""
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:121
+msgid "404 - Page not Found"
+msgstr "404 - Pagina niet gevonden"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:122
+msgid "Search"
+msgstr "Zoek"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:40
+msgid "Popular"
+msgstr "Populair"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:43
+msgid "Recent"
+msgstr ""
+

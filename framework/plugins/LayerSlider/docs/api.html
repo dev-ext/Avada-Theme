@@ -1,0 +1,104 @@
+<h3>About application programming interfaces (APIs)</h3>
+<p>
+	An API is a way to control an application, or get some info about the data which the
+	application is working with. This is a way to two separate application can work together.
+	LayerSlider has an API too, you can control the slider from outside of the application.
+</p>
+
+<h3>API methods</h3>
+<ul>
+	<li>
+		<strong><i>integer:</i></strong>
+		The slider will change to the specified slide. It starts with 1.
+	</li>
+	<li>
+		<strong>next:</strong>
+		The slider will change the next layer.
+	</li>
+	<li>
+		<strong>prev:</strong>
+		The slider will change the previous layer.
+	</li>
+	<li>
+		<strong>stop:</strong>
+		Will stop the slideshow.
+	</li>
+	<li>
+		<strong>start:</strong>
+		Will continue or start the slideshow.
+	</li>
+	<li>
+		<strong>data:</strong>
+		Will return all the data which LayerSlider is working with. For example you can
+		identify which slide is showing currently, or which one will the next to show.
+	</li>
+</ul>
+
+<h3>Using the API</h3>
+<p>
+	To run one of the above API command, you have to call the LayerSlider jQuery method
+	on the slider element and pass the command as a parameter. WordPress uses IDs on each
+	slider with the word "layerslider_" and the number of the selected slider.<br><br>
+
+	Example: jQuery('#layerslider_1').layerSlider(2);
+	<br><br>
+	This will switch to the second slide. If you want to use this with a link, you can use the following code:<br><br>
+
+	&lt;a href="javascript:void(0);" onclick="$('#layerslider').layerSlider(2);"&gt;to slide 2&lt;/a&gt;
+</p>
+
+<h3>Working with LayerSlider data</h3>
+<p>
+	The LayerSlider data object is a huge collection with all the information you need. We don't have
+	enough space here to list all of the properties you can work with, you have to check them manually.
+	Here are the most important ones:
+</p>
+<ul>
+	<li>
+		<strong>curLayer:</strong>
+		The current slide DOM element.
+	</li>
+	<li>
+		<strong>curLayerIndex:</strong>
+		The current slide index. Starts with 1.
+	</li>
+	<li>
+		<strong>nextLayer:</strong>
+		The next slide DOM element.
+	</li>
+	<li>
+		<strong>nextLayerIndex:</strong>
+		The next layer index. Starts with 1.
+	</li>
+	<li>
+		<strong>isAnimating:</strong>
+		This property returns whether the slider animating or not with boolean.
+	</li>
+	<li>
+		<strong>layersNum:</strong>
+		Returns the count of layers (slides).
+	</li>
+</ul>
+
+
+<h3>Callback functions and LayerSlider API</h3>
+<p>
+	When you request the LayerSlider data object with its API call, you will have the information
+	for that exact moment. When LayerSlider working along, these informations may change or will be
+	outdated.
+	You probably want to use this information in an exact moment, when something just happened, so you
+	have to use the LayerSlider API and the callback events at the same time. To do that, you can use
+	a custom named variable in the callback function header section which will be filled with the data
+	object of LayerSlider. Here is an example of using both with the <i>cbAnimStart</i> event:
+</p>
+<pre>function(data) {
+	alert('The next slide is: ' + data['nextLayerIndex']);
+}</pre>
+
+<h3>A more complex example</h3>
+<p>
+	Here is a more complex example which show which things you can do with our API. This example
+	implement a custom navigation area for a LayerSlider slider.
+	<br><br>
+	You can find this example <a href="http://pastebin.com/YHBFk1CR" target="_blank">here</a>.
+</p>

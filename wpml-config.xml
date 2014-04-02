@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+        <key name="google_analytics" />
+        <key name="space_head" />
+        <key name="space_body" />
+        <key name="header_number" />
+        <key name="header_email" />
+        <key name="header_tagline" />
+        <key name="breacrumb_prefix" />
+        <key name="footer_text" />
+        <key name="blog_title" />
+        <key name="portfolio_slug" />
+        <key name="project_desc_title" />
+        <key name="project_details_title" />
+        <key name="skills_title" />
+        <key name="categories_title" />
+        <key name="project_url_title" />
+        <key name="copyright_title" />
+        <key name="gmap_address" />
+        <key name="email_address" />        
+    </admin-texts>   
+	<custom-types>
+		<custom-type translate="1">themefusion_elastic</custom-type>
+		<custom-type translate="1">slide</custom-type>
+		<custom-type translate="1">layerslider</custom-type>
+		<custom-type translate="1">revslider</custom-type>
+		<custom-type translate="1">avada_faq</custom-type>
+		<custom-type translate="1">avada_portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">faq_category</taxonomy>
+		<taxonomy translate="1">portfolio_skills</taxonomy>
+		<taxonomy translate="1">themefusion_es_groups</taxonomy>
+		<taxonomy translate="1">slide-page</taxonomy>
+	</taxonomies>
+</wpml-config>

@@ -1,0 +1,74 @@
+<h3>About events in programming languages</h3>
+<p>
+	Many programming language supports events or notifications. The basic concept is that you can
+	subscribe to these events and the application will send you a notification or run some code
+	when they accour, so you will have a chance to do something you may want to be done in certain
+	points of your program. For example change the site's background when the slider switching slides.
+</p>
+
+<h3>Javascript uses callback functions</h3>
+<p>
+	In Javascript these events commonly used with callback functions. Instead of sending and receiving
+	notifications, you just pass an anonymous function (also known as blocks in other languages)
+	with your own code to a function or method call as a parameter and the application will execute
+	it when the time has come. LayerSlider uses this kind of event handling.
+</p>
+
+<h3>Events in LayerSlider</h3>
+<p>
+	So we now by now the technique about event handling, lets see which kind of event LayerSlider has:
+</p>
+<ul>
+	<li>
+		<strong>cbInit:</strong>
+		This event will fire when LayerSlider finished building up the DOM and successfully loaded.
+		If you want to do something with the LayerSlider elements right on the start, you won't be able
+		until LayerSlider has loaded, you have to use this event.
+	</li>
+	<li>
+		<strong>cbStart:</strong>
+		Calling when the slideshow has started.
+	</li>
+	<li>
+		<strong>cbStop:</strong>
+		Calling when the slideshow is stopped by the user.
+	</li>
+	<li>
+		<strong>cbPause:</strong>
+		Fireing when the slideshow is temporary on hold (for example by the "Pause on hover" feature).
+	</li>
+	<li>
+		<strong>cbAnimStart:</strong>
+		Calling when the slider commencing slide change (animation start).
+	</li>
+	<li>
+		<strong>cbAnimStop:</strong>
+		Fireing when the slider finished a slide change (animation end).
+	</li>
+	<li>
+		<strong>cbPrev:</strong>
+		Calling when the slider will change the previous slide by the user via previous button,
+		keyboard navigation, or touch control.
+	</li>
+	<li>
+		<strong>cbNext:</strong>
+		Calling when the slider will change the next slide by the user via next button, keyboard
+		navigation, or touch control.
+	</li>
+</ul>
+
+
+<h3>A simple example of a callback function</h3>
+<p>
+	This simple example will alert the user when LayerSlider changed a slide. To do that we
+	have to pass this function to the <i>cbAnimStop</i> event.
+</p>
+<pre>function() {
+	alert('The slider switched to a new layer!');
+}</pre>
+
+<h3>What's next?</h3>
+<p>
+	If you want to achieve something with the event callbacks, you probably instrested in our API.
+	Please continue reading with the next section of this document.
+</p>

@@ -1,0 +1,668 @@
+
+Version 3.0.1
+
+- fixed dark skin css and setting issue
+- fixed minor iphone styling bug in landscape mode
+- fixed google font error
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 3.0
+
+- NEW FEATURE: new complete dark skin
+- NEW FEATURE: 100+ new theme options (options reset recommended)
+- NEW FEATURE: over 50 new short codes & several new options for current ones
+- NEW FEATURE: new shortcode styling tab in theme options
+- NEW FEATURE: new short code drop down design in visual editor
+- NEW FEATURE: 4 new blog layouts (large & medium alternate, grid, timeline)
+- NEW FEATURE: choose pagination or infinite scrolling for all blog layouts
+- NEW FEATURE: enable/disable individual meta options
+- NEW FEATURE: new mobile menu design
+- NEW FEATURE: users can now mix and match header elements with designs (headers will reset)
+- NEW FEATURE: banner ad capability with header 4
+- NEW FEATURE: styling tab has 40 new options for color
+- NEW FEATURE: new line-height options added to typography tab
+- NEW FEATURE: option for inserting background image in header
+- NEW FEATURE: option for inserting background image in main content area
+- NEW FEATURE: light and dark social icon options
+- NEW FEATURE: change opacity of image rollovers
+- NEW FEATURE: enable/disable sliders from theme options
+- NEW FEATURE: new sidebar tab in theme options, change bkgd color, width and padding
+- NEW FEATURE: major google map enhancement; 4 map styles, multiple markers, several display/function options
+- NEW FEATURE: Pinterest added to sharing box & sharing box is now short code
+- NEW FEATURE: new font awesome 3.1 icons, 302 total icons
+- NEW FEATURE: several optimizations added
+- NEW FEATURE: added new google fonts, script also made for importing
+- NEW FEATURE: added drop down menu to top navigation
+- NEW FEATURE: new page options to show one, both or no rollover icons
+- NEW FEATURE: set custom link for the "link" rollover icon per post
+- NEW FEATURE: new page option to show or hide page title text per page
+- NEW FEATURE: ability to show or hide related posts for each blog/portfolio post
+- NEW FEATURE: includes new layer Slider 4.5.5
+- NEW FEATURE: includes new Rev Slider 2.3.9.1
+- NEW FEATURE: added retina fields for page title bar on individual pages
+- NEW FEATURE: added retina fields for custom social icon
+- NEW FEATURE: several added options and adjustments
+- NEW FEATURE: added compatibility for Event Espresso Plugin
+- NEW FEATURE: added compatibility for Sermon Manage Plugin
+- NEW FEATURE: added compatibility for Learndash Plugin
+- NEW FEATURE: added compatibility for DAP Membership plugin
+- NEW FEATURE: added compatibility for CC Gallery plugin
+- NEW FEATURE: added compatibility for Code styling Localization Plugin
+- NEW FEATURE: now using Caroufredsel plugin for carousels
+- NEW FEATURE: added ability to enable/disbale filters per portfolio page
+- worked directly with WPML devs to make Avada perfectly compatible with WPML
+- added default map height of 270px for mobile to counteract scrolling issue
+- fixed video issues of playing and stopping due to other vidoes/sliders
+- fixed tab issue of small gap on right side
+- changed yellow skin name to orange
+- moved portfolio custom fields out of theme options for multi-lingual capability
+- disabled hover effect for social icons on mobile
+- fixed half width portfolio issue when using "auto" for width
+- adjust layer slider thumbnail issue
+- fixed IE10 issue with zoom icon
+- lifted 10 slide limit for Themefusion slider and fixed slider bug
+- fixed side nav issue of pages not staying together in a set in specific instances
+- portfolio excerpt value now also controls portfolio category pages
+- removed any notices/errors when wp-debug mode is on
+- added h1 title to author admin page
+- added missing translation strings
+- fixed recaptcha language issue
+- added "default" sidebar option to page options box which will follow theme option
+- removed scroll bars on boxed mode at specific sizes
+- single category pages will now only filter through that category and not all
+- added message for when search results show up empty
+- fixed all includes for child theme
+= blog archive page background option follows theme option setting
+- fixed archive counter widget
+- minor styling adjustments
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.1.3
+
+- fixed sidebar issue of widgets being moved or deleted upon sidebar removal
+- fixed rev slider shadow issue in chrome
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.1.2
+
+- NEW FEATURE: Portfolio Text Layouts 1-4 column
+- NEW FEATURE: All portfolio layouts can now utilize sidebars
+- NEW FEATURE: Update then Rev Slider to 2.3.8
+- NEW FEATURE: new theme options to enable/disable google map scroll
+- NEW FEATURE: added new light box caption and description options
+- NEW FEATURE: added Turkish language translation files, submitted by user
+- NEW FEATURE: new theme option to choose what search contains and can hide excerpts
+- fixed responsive issue with ipad portrait and similar sizes from 800px-1024ox wide
+- fixed conflict with Gallery Plugin by Bestwebsoft
+- disabled style selector code
+- fixed google map issue with foreign characters
+- fixed issue of shortcodes being cut in excerpts
+- google ad sense or other scripts will not conflict with featured images
+- minor styling fixes
+- fixed page title bar background issue or deleting twice
+- portfolio pagination now works when its set to home page
+- portfolio filter animations are now back
+- portfolio permalink has extra parameter removed if you show "all" category
+- fixed minor portfolio prev and next navigation issue
+- custom featured image size now displays on archive page as well
+- fixed category count in widget
+- fixed issue of tabs not working in ipad portrait
+- custom backgrounds can now be uploaded to blog page
+- twitter widget can display different amount of tweets in footer and sidebar
+- boxed mode search results now show boxed mode
+- lightbox video issue of gallery thumbnails overlaying controls
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.1.1
+
+- NEW FEATURE: all shortcodes now have a link target function, so you can open links in new windows
+- NEW FEATURE: footer and header social icons have new option to open in new window
+- NEW FEATURE: includes new translated languages, Chezh, Portuguese, French & Polish thanks to users
+- NEW FEATURE: includes updated Revolution Slider plugin
+- NEW FEATURE: includes updated Layer Slider 4.0
+- NEW FEATURE: includes updated Flexslider plugin
+- NEW FEATURE: includes option to disable/enable PTO plugin
+- NEW FEATURE: includes new option to show or hide HTML in excerpts for blog archive pages
+- NEW FEATURE: added new theme option to control bottom margin
+- NEW FEATURE: added ability for user to choose how many posts display in recent work shortcode
+- NEW FEATURE: updated flickr and twitter widget, now only one widget for both sidebar & footer
+- NEW FEATURE: new theme option to enable Ubermenu compatibility
+- fixed issue of admin boxes overlapping on smaller screens
+- fixed issue of prev & next navigation cycling through all portfolio posts instead of custom categories
+- Featured Image on or off will now only affect blog archive page & single page has its own option
+- slider shortcode now allows image names with "x" in them, ex: 300x200.jpg
+- menu items on two lines now have tightened up line-height
+- fix issue of textarea clearing on-click 
+- the company name in testimonial shortcode is now a link
+- bottom border fixed on facebook like box widget
+- adjusted position of flex slider so it aligns with dropdown
+- added safe fallback for widgets 
+- all video controls work in all browsers for the slider shortcode
+- videos now stop playing when advancing slides in slider
+- new theme option to put pagination circles under the video in slider so mobile nav is easier
+- separator shortcode now works on mobile as well
+- changed recent works and news shortcode to say [cat_slug=""] instead of [cat_id=""]
+- fixed small graphic glitch in safari with client slider
+- fixed issue of contact form fields emptying is a field was missed, even the reCaptcha
+- fixed minor styling issues for about author and comments on single post pages
+- fixed php notices/errors in wp-debug mode
+- fixed IE8 archive page text styling issue
+- changed contact widget so you can enter custom text for web URL
+- the brand new twitter API is now being used, please see
+- when image rollovers are disabled, all images link properly
+- fixed "get rid of comments" issue displaying when comments are disabled
+- fixed all blog medium issues
+- fixed recent news issue of empty rows when using more than one row
+- Several IE8, IE9, IE10 styling issues, we're a bit crazy after this one :)
+- fixed issue of using "general" category name for FAQ's
+- Post meta option "show or hide" works for archive, single and category pages
+- image links on mobile open the post instead of image URL
+- removed twitthis service and use twitter instead
+- fixed missing translations
+- removed images from showing in recent news excerpt
+- fallback image now works with elastic slider
+- removed white caption bar on elastic slider for mobile devices
+- adjust responsive height for elastic slider
+- soundcloud audio is now responsive on mobile
+- fixed issue of using more than 8 tabs
+- fixed issue of using slider widget in footer
+- fixed issue of lightbox on ipad not covering full width, and corner alignment
+- fixed responsiveness of themefusion slider
+- fixed some issues in header.php file and conflict with jQuery
+- updated various descriptions in theme options
+- fixed issue of sublayers not linking correctly on Rev Slider
+- fixed antispam bee plugin conflict
+- fixed issue of notification messages messing with theme options panel display
+- fixed issue of some users who had duplicated blog posts
+- fixed contact form private issue
+- adjusted position of meta bar when a small amount of text is used
+- category sidebar widget now displays the count properly
+- fixed google map translating issue
+- fixed sidebar issue when setting front page as post page
+- checked for full compatibility for WPML plugin and added Avada to list of compatible sites
+- included a function that fixes sidebar position if post content has invalid content
+- fixed issue of embed code disappearing when clicked on
+- other minor styling changes
+- fix for new version of Firefox so it plays videos in 1-column view
+- adjusted styling of a few widgets
+- added a few more retina graphics
+- fixed google map issue with zip codes
+- several other minor bug fixes and adjustments
+
+
+-----------------------------------------------------------------------------------------
+
+Version 2.1
+
+- NEW FEATURE: Avada is now Retina Ready!
+- NEW FEATURE: includes the super cool Elastic Slider!
+- NEW FEATURE: 4 new header design options (social icons and text) all easily accessed via theme options
+- NEW FEATURE: new theme options for ThemeFusion Slider; speed, animation, autoplay
+- fixed the duplicate image showing up in lightbox for blog posts
+- all featured images in post slideshows open in lightbox
+- post type order plugin works, please check "auto sort" to sort portfolio and blog posts
+- when image rollovers are turned off, the related posts thumbnails link to post page
+- includes updated Rev Slider Plugin 2.2.4
+- fixed issue of captions in ThemeFusion slider being cut off on right side by the edge
+- tested for WP 3.5.1
+- fixed the empty image border in person shortcode
+- removed small arrow next to flexslider sidebar widget
+- small appearance adjustments to theme option headings and descriptions
+- page title bar can now be used on home page
+- improve our overall YSlow results
+- multi-site rev slider fix, removed the multiple side menus
+- fixed 3 missing translation strings
+- fixed minor bullet point stlying issue when wrapping
+- recoded twitter widget to fix the date stamp and character bug
+- In header.php the h1 404 error page is now translation ready  
+- fix full width blog layout image scaling issue, full width now shows full image size
+- fixed the search results so they do not show shortcodes
+- sticky posts now work with the recent news shortcode
+- added the search field back to the page title bar once a first search is performed.
+- fixed contact map height when responsivenss is turned off
+- fixed font awesome alignment when used with text/titles
+- fixed HTML tags from being trimmed with the excerpt
+- fixed duplicate video posts in specific cases
+- removed the iFrame from google map and are using official Google Maps api
+- custom menu widget now has indented sublevels
+- Facebook "Like" count now displays in the lightbox
+- Fixed buttons and navigation arrows on mobile devices for layer slider
+
+
+-----------------------------------------------------------------------------------------
+
+Version 2.0.9
+
+- fixed blog & recent news excerpts, added portfolio excerpts
+- fixed Google Chrome font issue with Museo Slab
+- minor IE styling adjustments
+- fixed minor styling issue with Wordpress admin bar
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+Version 2.0.8
+
+- fixed flexslider URL issue
+- fixe slow site loading/server issues when using a shared server
+- removed the auto updater that caused issues
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.7
+
+- NEW FEATURE: added option to use fixed layout for iPad portrait
+- NEW FEATURE: added a shortcode for post content images to open in lightbox
+- NEW FEATURE: added type="video" to slider shortcode. Both vimeo and youtube shortcodes can be used with it
+- Added demo pricing tables to documentation
+- Updated Rev slider plugin to v2.1.7 which is now fully multi-site compatible and the CSSbug has been fixed
+- Allow comments on pages now works on all pages
+- All images in posts slideshows now open in light box
+- Fixed portfolio page translation error 
+- Fixed recent works shortocde when used on side nav page
+- Theme now allows custom breadcrumbs
+- Recent News "comments" are now hyperlinks 
+- FAQ toggles are now accordion style so one closes when another is open
+- Fixed position of title and breadcrumbs in page title bar when text goes on two lines. 
+- Fixed pricing numbers so they follow the color selections in theme options
+- Added back avada skin to the layer slider plugin
+- Fixed rev slider when setting "nav arrows" to none, the page content no longer jumps
+- Fixed alignment issue with rev slider when used via shortcodes in post content area
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.6
+
+- NEW FEATURE: now uses wordpress auto updater plugin, please see "update" tab in theme options
+- NEW FEATURE: you can now choose to manually start slideshows or have them auto play
+- NEW FEATURE: footer widgets can now be 1, 2, 3 or 4 columns
+- NEW FEATURE: added new theme option to control the number of FlexSlides a user can use
+- NEW FEATURE: added ability for user to set custom height for the map
+- NEW FEATURE: added ability for page title bar to have a color in addition to an image
+- NEW FEATURE: add option to disable featured image only on single post pages
+- NEW FEATURE: add side nav option for child pages to open on hover or on click
+- include "language" folder in avada theme folder so user does not have to create a new one
+- fixed child theme issue
+- fixed the new_slideshow.php warning that some users received. 
+- corrected description for "Allow Comments On Pages
+- made contact footer widget translatable
+- added a check to make sure Rev Slider database is created
+- fix video responsive issue so custom sizes work
+- includes new Rev Slider plugin 2.1.6
+- includes new layer slider plugins
+- fix google analytics field
+- Includes new Font Awesome 3.0
+- Fixed light box bug when it shows all featured images from all posts instead of from the single post
+- Fixed recent news shortcode bug that does not allow more than 15 words in excerpt
+- Fixed styling issue for category widget when subcategories are used
+- Fixed category footer widget, the subcategories are not displayed correctly
+- Fixed Mobile menu so users can use a # for link and work properly
+- Changed behavior of side navigation menu when multiple parent/child pages are used
+- Fixed image quality issue when using the recent news shortcode
+- Fixed facebook like box bug 
+- Fixed tabs widget date stamp
+- Minor styling issues
+- Adjusted testimonial shortcode to include the slider portion
+- Fixed minor IE styling issues 
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.5
+
+- WP 3.5 tested
+- Includes updated Revolution Slider Plugin that is now integrated into the Theme
+- Includes updated Post Type Order Plugin that is now integrated into the Theme
+- Includes updated Layer Slider plugin that is now integrated into the Theme
+- FlexSlider plugin that is now integrated into the Theme
+- Added Avada skin back into the skin dropdown menu for Layer Slider
+- Added 2 buttons to single portfolio search page when using filters
+- fixed blockquote from not showing in portfolio post pages
+- Added custom CSS filters for IE9 Gradients
+- removed image rollovers from showing on slideshows posts
+- fixed portfolio and post content issue with headings
+- fix parent/child side nav issue
+- fixed shortcode plugin issue for S2Member plugin
+- moved main nav height option to "header" tab in theme options
+- Portfolio & FAQ pages can now have content inserted in the post content fields
+- Added solution to auto disable IE Compatibility mode
+- Added back rollover effects to top menu, and sidebar widgets
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.4
+
+- includes new layer slider 3.5
+- added option to put custom google map size
+- removed images from page search results
+- fixed WP-config errors
+- fixed CSS backslash error not saving in theme options field
+- make toggles work like FAQ's
+- IE8 bullet styling fix
+- IE8 & 9 button styling fix
+- adjusted headings wrap when on two lines
+- added default settings to lightbox and slider fields in theme options
+- changed minimum hosting requirement from PHP5.3 to PHP5
+- fixed slideshows post sizing issue
+- added ability to input custom featured image size for portfolio posts
+- change toggle to close on second click like FAQ
+- fixed blog featured image size when inserting a custom size
+- adjusted the pricing table "time" value position
+- fixed date format in theme options
+- fixed twitter widget only displaying one tweet in certain situations
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.3
+
+- made default option set to "wide" instead of box
+- updated revolution slider plugin to new version
+- added new theme option for "navigation height"
+- fixed "header top and bottom margin" theme option error that happened in select cases
+- added "minus" sign to accordion shortcode
+- adjusted responsiveness of pricing tables
+- adjusted breadcrumb CSS on mobile devices
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.2
+
+- fixed favicon bug
+- styled the Avada social links widget for footer
+- fixed featured image bug
+- fixed image rollover disable option & posts slideshows option
+- fixed child theme issue
+- fixed function single_cat_title() in header.php to support support post type archives
+- fixed the FlexSlider plugin for WP 3.5 beta
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0.1
+
+- fixed favicon error & deprecated code
+- styled the custom menu widget
+	
+
+-----------------------------------------------------------------------------------------
+
+
+Version 2.0
+
+NEW FEATURE: added slider revolution
+NEW FEATURE: new layer slider 3.0
+NEW FEATURE: entirely new theme options panel
+NEW FEATURE: added option to use default system fonts instead of google fonts
+NEW FEATURE: integrated flex slider with captions via theme options
+NEW FEATURE: added color fields in theme options for changing the fonts, links, menu items
+NEW FEATURE: Option to deactivate the breadcrumbs
+NEW FEATURE: allow a custom image in the title bar for each page, not just one option + allow a "universal" option 
+NEW FEATURE: allow custom background for each individual page, not just one option +allow a "universal" option NEW FEATURE: implemented the font awesome icon set to be used via shortcodes
+NEW FEATURE: added new social icons (flickr, forrest, myspace, digg, skype)
+NEW FEATURE: make client list a slider with individual links for each client logo
+NEW FEATURE: add full width blog page template, see design file
+NEW FEATURE: add 404 page template, see design file
+NEW FEATURE: add date to blog posts, requires design addition, see design file
+NEW FEATURE: make contact form spam protected (contact form 7?)
+NEW FEATURE: Multiple portfolio option that allows a custom filter set per page.
+NEW FEATURE: Make 2nd level of side navigation collapsed by default, then it opens when the top level is clicked on 
+NEW FEATURE: give a theme option to allow for a testimonial to have a guy or girl icon 
+NEW FEATURE: images of a gallery open in , 
+NEW FEATURE: images in post content open in PP lightbox, 
+NEW FEATURE: recent posts shortcode can now pull from a specific category
+NEW FEATURE: recent news shortcode can now be 3-4 columns and have more than one row, and can pull from a specific category
+NEW FEATURE: allow option for putting search bar in the page title bar
+NEW FEATURE: make videos play in light box (for portfolio posts)
+NEW FEATURE: allow for 4th level dropdown
+NEW FEATURE: allow portfolio text (project description, project url, etc) to be change via theme options, add fields to the portfolio tab
+NEW FEATURE: ability to easily sort blog posts, portfolio posts and FAQ's by draggin and dropping them into place. Using the Posts Types Order plugin
+NEW FEATURE: ability to have more than one widget per footer column, example http://wednesdaysinmhd.com/
+NEW FEATURE: Avada should work with W3C Total Cache - http://theme-fusion.com/wp-admin/admin.php?page=ahq_forum_options&action=view_topic&id=700
+NEW FEATURE: add option in VC to have custom amount of characters for recent works widget
+NEW FEATURE: added new post slideshow method for portfolio and bog posts. Legacy method still works, but you have to enable it in theme options.
+NEW FEATURE: added ability to hide featured image for blog posts as well as other meta information (author, categoreis, etc)
+NEW FEATURE: added ability for user to choose the featured image size for each blog post
+NEW FEATURE: added ability for video post to have featured image for sidebar widget
+NEW FEATURE: added ability to use search bar in top page title bar
+NEW FEATURE: side navigation now has collapsable sub levels
+NEW FEATURE: each footer column can now have multiple widgets per column
+NEW FEATURE: search bar now searches full site instead of just blog posts by default
+NEW FEATURE: added new shortcdoe for spacing between elements
+NEW FEATURE: blog images & related post carousel images now have light box option for image rollovers
+FIXED: improved organization and names/descriptions of options for easier use
+FIXED: post image slideshows option (disable/enable) that did not work
+FIXED: post slideshow images theme option that did not work
+FIXED: portfolio filters can now go on two lines if needed
+FIXED: image rollovers that would get stuck sometimes 
+FIXED: pricing table prices are now images
+FIXED: youtube and vimeo vidoe issue in IE when using layer slider
+FIXED: menu dropdown issue when moving mouse slightly off to the right or left
+FIXED: youtube and vimeo shortcodes to be responsive
+FIXED: wooslider issue with dropdown menu disappearing body .wooslider .slide-content p { margin:0; padding:0; }
+FIXED: media search function in admin section
+FIXED: woo slider bug where slider would not show when returning from a page
+FIXED: google chrome font bug
+FIXED: Footer widget areas are now active by default
+FIXED: comment/trackback bug
+FIXED: fix sub menu pages "active bar" 
+FIXED: updated "get_theme_data" since its being phased out
+FIXED: single blog post pages can now have custom sidebar
+FIXED: missing translations	
+FIXED: tab issue when using 5 or more tabs
+FIXED: alt tags in shortcodes with images
+FIXED: breadcrumb	
+FIXED: the enqueue for plugins to increase compatibility
+FIXED: breadcrumb ordering bug
+FIXED: other minor bug issues
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.1.2
+
+- Fixed twitter date link
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.1.1
+
+- Fixed some PHP errors in shortcodes
+- Fixed tabset not working properly in portfolio page
+- Fixed page title not working with selected google font issue
+- Made page title and breadcrumbs work for longer page title and breadcrumbs
+- Fixed the layerslider pagination not showing up on IE
+- Updated flexslider javascript
+- Made footer widgets work with new twitter API
+- Fixed wooslider to work on IE8 and IE9 along with modern browers properly
+- Made portfolio tabs work responsively
+- Improved image rollovers
+- Typo for post shortcode option fixed
+- Fixed side navigation no-sidebar option and added margin if a sidebar is added to the side navigation pages
+- Updated wooslider plugin, if you are updating, uninstall it and reinstall the plugin.
+- Made plugin notices softer and added ability to enable / disable plugins while on Avada.
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.1
+
+ - Updated wooslider plugin (flexslider WP). The new menu is called "Slideshows".
+ - Made h1-h6 work within the title div
+ - Added missing translation
+ - Updated PO/MO file
+ - Fixed the page title background option
+ - Added an option to add/remove page title bar
+ - Added an option to add youtube icon to the footer and social links widget
+ - Added an option to add pinterst icon to the footer and social links widget
+ - Fixed an issue where pagination color will not change with the color options
+ - Changed logo link to show site url instead of wp url
+ - Added an option to change number of slides on flexslider in theme options
+ - Made the images slide effect smoother
+ - Made posts image slideshow option enable / disable posts images slideshow from single post page
+ - Added an option in theme options to change the number of images in posts slideshow
+ - Added custom sidebar code to side navigation
+ - Fixed the facebook like box widget
+ - Made the layout fixed width when responsiveness is set to OFF
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.9.1
+
+- Fixed recent posts shortcode linking directly to images instead of post
+- Fixed the zip file so you could upload the theme directly from wp-admin
+- Fixed child theme so that color scheme options work correctly
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.9
+
+- Fixed side navigation styling and functionality
+- Improved breadcrumbs
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.8
+
+- Added the missing lightbox icon to porfolio three column
+- Fixed the bug where you could not select all categories to be shown on portfolio page template
+- Fixed the bug where pattern was not showing up correctly
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.7
+
+- Updated documentation
+- Fixed featured images breaking the normal wp pages font sizes on IE
+- Fixed the color scheme selector
+- Made alert boxes / notices responsive
+- Fixed archive / categories sidebar list
+- Added unlimited portfolio option, when creating a portfolio template, select a category or leave bank for all categories.
+- Edited header.php to fix a typo on viewport meta tag
+- Fixed the contact form textarea responsiveness
+- Added parent page link to side navigation
+- Fixed the fallback image browse button
+- Made contact form map responsive
+	
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.6
+
+- Added an example child theme in the themeforest package
+- SEO optimization
+- Added support for multiple tabs
+- Added missing translations
+- Added a theme option to change contact page zoom level
+- Added a theme option to change page-title of Blog
+- Added support to add slider to the main blog index page
+- Added support to add slider to single post pages
+- Added all shortcodes to the post editor
+- Fixed the tabs widget options
+- Added an option to add one custom icon to the footer
+- Added a theme option to add analytics code
+- Added translation support to breadcrumbs
+- Regenerated the en_US.mo and en_US.po translation file to support missing words
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.5
+
+- Fixed the search page
+- Added an option to enable or disable image rollovers
+- Added an option to disable posts slideshow
+- Fixed the responsiveness disabling bug
+- Disabled prettyphoto on mobile sites
+- Added an option in theme options to add custom CSS
+- Fixed bug with contact error and success msgs	
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.4
+
+- Some code changes to page options box
+- Fixed a typo in portfolio one column for "All" link
+- Added initial and maximum scale so that the responsive site works well on iphone horizontally
+- Fixed IE issues
+- Fixed contact form unable to send email issue
+- Made the skills needed and categories optional
+- Made project description optional for one column portfolio
+- Added an option to control the testimonials slider speed
+- Added an option to enable or disable responsiveness
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.3
+
+- Made dropcap color to change to primary color
+- Fixed submit button on contact form not changing to color change in theme options
+- Made flickr widget(s) work properly with complicated flickr usernames
+- Changed the font name of Museo Slab font in all.css file
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.2
+
+- Fixed a page bug options which happened when there were no slider groups created
+- Fixed the FlexSlider plugin installation notice nags
+
+
+-----------------------------------------------------------------------------------------
+
+
+Version 1.0.1
+
+- Changed "MOre" to "More" from the blog page
+- Removed style selector
+- Added "Blog" to breadcrumbs for the blog page
+- Made the post thumbnails height to be flexible with the "Medium Image Layout"
+- Added color scheme option in backend
+- Added option to disable footer widgets and footer
+- Added option to add a favicon
+- Added "open" option to toggle shortcode to keep it open by default

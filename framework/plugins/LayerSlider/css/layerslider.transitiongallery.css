@@ -1,0 +1,98 @@
+/* LayerSlider Transition Gallery Styles */
+
+
+
+.ls-transition-preview {
+	width:  300px !important;
+	height: 150px !important;
+	position: relative;
+}
+
+.ls-transition-preview .ls-overflow-hidden {
+	overflow: hidden;
+}
+
+.ls-transition-preview .ls-lt-tile {
+	position: relative;
+	overflow: hidden;
+	float: left;
+}
+
+.ls-transition-preview .ls-curtile,
+.ls-transition-preview .ls-nexttile {
+	position: absolute;
+	width: 100% !important;
+	height: 100% !important;
+	overflow: hidden;
+	bottom: auto !important;
+	right: auto !important;
+}
+
+.ls-transition-preview .ls-curtile {
+	left: 0px;
+	top: 0px;
+}
+
+.ls-transition-preview .ls-curtile img,
+.ls-transition-preview .ls-nexttile img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	filter: inherit;
+}
+
+.ls-transition-preview .ls-3d-container {
+	position: relative;
+	perspective: 500px !important;
+	-o-perspective: 500px !important;
+	-ms-perspective: 500px !important;
+	-moz-perspective: 500px !important;
+	-webkit-perspective: 500px !important;
+	overflow: visible !important;
+}
+
+.ls-transition-preview .ls-3d-box {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d;
+}
+
+.ls-transition-preview .ls-3d-box div {
+	overflow: hidden;
+	background: #777;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d;
+}
+
+
+/* GPU Hardware Acceleration under WebKit */
+
+.ls-transition-preview,
+.ls-transition-preview * {
+	transform: translateZ(0px);
+	-o-transform: translateZ(0px);
+	-ms-transform: translateZ(0px);
+	-moz-transform: translateZ(0px);
+	-webkit-transform: translateZ(0px);
+}
+
+/* GPU */
+
+@media (transform-3d), (-o-transform-3d), (-ms-transform-3d), (-moz-transform-3d), (-webkit-transform-3d) {
+	#ls-test3d {
+		position: absolute;
+		left: 9px;
+		height: 3px;
+	}
+}

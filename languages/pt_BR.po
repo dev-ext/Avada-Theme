@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-28 09:45+0500\n"
+"PO-Revision-Date: 2013-03-10 18:25-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: E:\\projects\\Luke Beck\\Avada\\wp-content\\themes"
+"\\Avada\n"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:6
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "Ops, Página não encontrada!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:13
+msgid "Here are some useful links:"
+msgstr "Links úteis:"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:17
+msgid "Search Our Website"
+msgstr "Buscar no Site"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/404.php:18
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr "Não encontrou o que precisa? Faça uma busca no site!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "By"
+msgstr "Por"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:39
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:93
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:92
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:93
+#: Beck\Avada\wp-content\themes\Avada/comments.php:18
+#: Beck\Avada\wp-content\themes\Avada/index.php:39
+msgid "Comments"
+msgstr "Comentários"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/archive.php:42
+#: Beck\Avada\wp-content\themes\Avada/blog-fullwidth.php:96
+#: Beck\Avada\wp-content\themes\Avada/blog-large.php:95
+#: Beck\Avada\wp-content\themes\Avada/blog-medium.php:96
+#: Beck\Avada\wp-content\themes\Avada/index.php:42
+msgid "Read More"
+msgstr "Leia mais..."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Este artigo é protegido por senha. Insira sua senha para ver os comentários."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "No Comments"
+msgstr "Sem comentários."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:18
+msgid "One Comment"
+msgstr "Um comentário"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:37
+msgid "Comments are closed."
+msgstr "Fechado para comentários."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:47
+msgid "Leave A Comment"
+msgstr "Deixe seu comentário"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:53
+msgid "You must be <a href=\""
+msgstr "Necessário estar <a href=\""
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:60
+msgid "Log out &raquo;"
+msgstr "Sair &raquo;"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:70
+#: Beck\Avada\wp-content\themes\Avada/comments.php:96
+msgid "Post Comment"
+msgstr "Publicar Comentário"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:80
+#: Beck\Avada\wp-content\themes\Avada/contact.php:103
+msgid "Name (required)"
+msgstr "Nome (necessário)"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:82
+#: Beck\Avada\wp-content\themes\Avada/contact.php:105
+msgid "Email (required)"
+msgstr "Email (necessário mas não publicado)"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:84
+msgid "Website"
+msgstr "Site"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/comments.php:90
+msgid "Comment..."
+msgstr "Comentário..."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:90
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr ""
+"Por favor, verifique se você preencheu todos os campos com informações "
+"válidas. Obrigado."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "Thank you"
+msgstr "Obrigado"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:95
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr "por entrar em contato! Sua mensagem foi enviada com sucesso!"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:107
+msgid "Subject"
+msgstr "Assunto"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:113
+msgid "Message"
+msgstr "Mensagem"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/contact.php:129
+msgid "Submit Form"
+msgstr "Enviar Mensagem"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/faqs.php:23
+msgid "All"
+msgstr "Todos"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:88
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins necessários"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:89
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:91
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:102
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para o instalador de plugins"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:103
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos plugins instalados e ativados com sucesso. %s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s em %2$s"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:239
+msgid " - Edit"
+msgstr "- Editar"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando aprovação."
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/functions.php:331
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/header.php:714
+msgid "Search results for:"
+msgstr "Buscar resultados para:"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:84
+msgid "Learn More"
+msgstr "Saiba Mais..."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/portfolio-one-column.php:86
+msgid "View Project"
+msgstr "Ver Projeto"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/searchform.php:3
+msgid "Search ..."
+msgstr "Buscar..."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:11
+#: Beck\Avada\wp-content\themes\Avada/single.php:17
+msgid "Previous"
+msgstr "Anterior"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:12
+#: Beck\Avada\wp-content\themes\Avada/single.php:18
+msgid "Next"
+msgstr "Próximo"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/single-avada_portfolio.php:144
+msgid "Related Projects"
+msgstr "Projetos Relacionados"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:137
+msgid "Share This Story, Choose Your Platform!"
+msgstr "Compartilhe este Post! Escolha a sua maneira:"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:228
+msgid "About the Author:"
+msgstr "Sobre o Autor:"
+
+#: E:\projects\Luke Beck\Avada\wp-content\themes\Avada/single.php:244
+msgid "Related Posts"
+msgstr "Artigos Relacionados"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:455
+msgid "Last Backup : "
+msgstr "Último Bakup :"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/classes/class.options_machine.php:515
+msgid "Upload"
+msgstr "Upload"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:43
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Salvar todas alterações"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Resetar Opções"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Opções"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galeria"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Enviado anteriormente"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Algo eu errado."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos plugins instalados e ativados com sucesso. %1$s"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:517
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Voltar ao Painel"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "O seguinte Plugin foi ativado com sucesso: %s."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Ignorar aviso"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Link Externo"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Repositório privado"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pré-embalados"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Necessário"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não Ativo"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Não há plugins para instalar ou ativar. <a href=\" %1$s\"title=\"Voltar para "
+"o Painel\">Voltar para o Painel</a>"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Origem"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tipo"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Status"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Instalar"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Ativar"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Pacote de instalação não disponível."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Baixando pacote de instalação de <span class=\"code\">%s</span> #8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Descompactando pacote &#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando plugin &#8230;"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Instalação do plugin falhou."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado com sucesso."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Falha na ativação do plugin."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"O processo de instalação e ativação está começando. Este processo pode levar "
+"algum tempo, por favor, seja paciente."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s Instalado e Ativado com sucesso."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1956
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Todas instalações e ativações foram finalizadas."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando o plugin %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação está começando. Este processo pode levar algum "
+"tempo, por favor, seja paciente."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Houve um erro durante a instalação %1$s: <strong>%2$s</strong>."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalação de %1$s falhou."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Todas instalações foram completadas."
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin  %1$s (%2$d/%3$d)"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:107
+msgid "Home"
+msgstr "Início"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:159
+msgid "404 - Page not Found"
+msgstr "404 - Página não encontrada"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/framework/custom_functions.php:160
+msgid "Search"
+msgstr "Buscar"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:40
+msgid "Popular"
+msgstr "Popular"
+
+#: E:\projects\Luke
+#: Beck\Avada\wp-content\themes\Avada/widgets/tabs_widget.php:43
+msgid "Recent"
+msgstr "Recente"
