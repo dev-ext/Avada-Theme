@@ -2169,10 +2169,6 @@
 		$main_class = 'width-100';
 	}
 	
-	if(function_exists('avada_after_header')){
-		avada_after_header();
-	}
-	
 	?>
 	<div id="main" class="<?php echo $main_class; ?>" style="overflow:hidden !important;<?php echo $main_css; ?>">
 		<div class="avada-row" style="<?php echo $row_css; ?>">
